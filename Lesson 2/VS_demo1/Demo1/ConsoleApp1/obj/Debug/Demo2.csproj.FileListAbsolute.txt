@@ -1,0 +1,14 @@
+D:\Learning\Lesson 2\VS_demo1\Demo1\ConsoleApp1\obj\Debug\Demo2.csprojResolveAssemblyReference.cache
+D:\Learning\Lesson 2\VS_demo1\Demo1\ConsoleApp1\obj\Debug\Demo2.csproj.CoreCompileInputs.cache
+D:\Learning\Lesson 2\VS_demo1\Demo1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\Learning\Lesson 2\VS_demo1\Demo1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Learning\Lesson 2\VS_demo1\Demo1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Learning\Lesson 2\VS_demo1\Demo1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Learning\Lesson 2\VS_demo1\Demo1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+D:\Learning\gittest\Lesson 2\VS_demo1\Demo1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\Learning\gittest\Lesson 2\VS_demo1\Demo1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Learning\gittest\Lesson 2\VS_demo1\Demo1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Learning\gittest\Lesson 2\VS_demo1\Demo1\ConsoleApp1\obj\Debug\Demo2.csprojResolveAssemblyReference.cache
+D:\Learning\gittest\Lesson 2\VS_demo1\Demo1\ConsoleApp1\obj\Debug\Demo2.csproj.CoreCompileInputs.cache
+D:\Learning\gittest\Lesson 2\VS_demo1\Demo1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Learning\gittest\Lesson 2\VS_demo1\Demo1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

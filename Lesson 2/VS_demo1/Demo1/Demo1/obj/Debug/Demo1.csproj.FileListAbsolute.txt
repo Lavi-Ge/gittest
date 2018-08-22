@@ -1,0 +1,7 @@
+D:\Learning\Lesson 2\VS_demo1\Demo1\Demo1\bin\Debug\Demo1.exe.config
+D:\Learning\Lesson 2\VS_demo1\Demo1\Demo1\bin\Debug\Demo1.exe
+D:\Learning\Lesson 2\VS_demo1\Demo1\Demo1\bin\Debug\Demo1.pdb
+D:\Learning\Lesson 2\VS_demo1\Demo1\Demo1\obj\Debug\Demo1.csprojResolveAssemblyReference.cache
+D:\Learning\Lesson 2\VS_demo1\Demo1\Demo1\obj\Debug\Demo1.csproj.CoreCompileInputs.cache
+D:\Learning\Lesson 2\VS_demo1\Demo1\Demo1\obj\Debug\Demo1.exe
+D:\Learning\Lesson 2\VS_demo1\Demo1\Demo1\obj\Debug\Demo1.pdb
